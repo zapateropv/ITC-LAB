@@ -1,0 +1,25 @@
+[{
+    "Name": "Lebron James",
+    "Profile": "./images/lebron.png",
+    "When": "4 months ago",
+    "Rating": "./images/rating-45.png",
+    "Message": "The best burger I've ever had! The patty was juicy and cooked to perfection, and the bun was soft yet perfectly toasted."
+},{
+    "Name": "Darren Watkins",
+    "Profile": "./images/darren.png",
+    "When": "2 days ago",
+    "Rating": "./images/rating-50.png",
+    "Message": "The flavors all came together wonderfully, and every bite was a delight. I can’t wait to come back for more!"
+},{
+    "Name": "Bill Gates",
+    "Profile": "./images/gates.png",
+    "When": "1 month ago",
+    "Rating": "./images/rating-50.png",
+    "Message": "Absolutely delicious! The burger was packed with flavor, and the patty was perfectly juicy."
+},{
+    "Name": "Tyson Ngo",
+    "Profile": "./images/TENZ.png",
+    "When": "8 months ago",
+    "Rating": "./images/rating-50.png",
+    "Message": "Highly recommend the classic cheeseburger and they were the perfect combo. Will definitely be coming back!"
+}]

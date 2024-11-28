@@ -1,0 +1,48 @@
+[{
+    "title": "Cheezy Burger",
+    "image": "./images/BURGER1.png",
+    "price": 9.99
+},
+{
+    "title": "Classic Burger",
+    "image": "./images/BURGER2.png",
+    "price": 2.99
+},
+{
+    "title": "Overload Burger",
+    "image": "./images/BURGER3.png",
+    "price": 5.99
+},
+{
+    "title": "Lettuce Burger",
+    "image": "./images/BURGER4.png",
+    "price": 4.99
+},
+{
+    "title": "royal Burger",
+    "image": "./images/BURGER5.png",
+    "price": 3.99
+},
+{
+    "title": "Champ Burger",
+    "image": "./images/BURGER6.png",
+    "price": 15.99
+},
+{
+    "title": "Tomato Melt Burger",
+    "image": "./images/BURGER7.png",
+    "price": 8.99
+},
+{
+    "title": "BigChamp Burger",
+    "image": "./images/BURGER8.png",
+    "price": 15.99
+},{
+    "title": "Grilled Burger",
+    "image": "./images/BURGER9.png",
+    "price": 20.99
+},{
+    "title": "Beef Burger",
+    "image": "./images/BURGER10.png",
+    "price": 19.99
+}]
